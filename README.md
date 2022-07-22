@@ -7,7 +7,7 @@ This document purpose is to assess Software Engineer candidate’s skill in prog
 1. Laptop / computer with text editor installed (Sublime for PHP, Eclipse for Java)
 2. Make sure the laptop / computer connected to the internet
 3. Personal GitHub Account (from candidate) if candidate doesn’t have any GitHub account then please create an account and learn how to Git Init, Commit, Push and Pull.
-4. Create a private repository in candidate’s GitHub account and name the project : **spe- skill-test**
+4. Create a private repository in candidate’s GitHub account and name the project : **spe-skill-test**
 5. Add **[yohanesboyoh](https://github.com/yohanesboyoh)** (**Yohanes Boyoh**) as collaborators in that project
 6. Prepare your mind and please read every instructions carefully
 
